@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "hslu-sd-experience2.1.sln"
+    "dotnet.defaultSolution": "hslu-sd-experience2-2025.sln"
 }
